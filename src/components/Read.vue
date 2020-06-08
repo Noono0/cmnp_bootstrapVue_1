@@ -37,10 +37,10 @@
 접수 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Jubsu">접수</a><br>
 출발지 선택 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Depart">출발지 선택</a><br>
 도착지 선택 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Arrive">도착지 선택</a><br>
-오더화면 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Arrive">오더화면</a><br>
-오더화면 - 상세정보 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Arrive">오더화면 - 상세정보</a><br>
-통계화면 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Arrive">통계화면</a><br>
-설정화면 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Arrive">설정화면</a>
+오더화면 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Order">오더화면</a><br>
+오더화면 - 상세정보 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Order_Detail">오더화면 - 상세정보</a><br>
+통계화면 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Status">통계화면</a><br>
+설정화면 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Option">설정화면</a>
 
 
 
