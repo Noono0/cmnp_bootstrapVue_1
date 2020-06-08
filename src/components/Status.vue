@@ -3,10 +3,10 @@
  <div class="container">
 
       <!-- nav bar -sta -->
-  <b-navbar toggleable="lg" type="dark" variant="dark" fixed="top">
+  <!-- <b-navbar toggleable="lg" type="dark" variant="dark" fixed="top"> -->
      <!-- <b-navbar-toggle target="nav-collapse" ></b-navbar-toggle> -->
 <!-- 3line sidebar btn sta-->
-<b-button v-b-toggle.sidebar-backdrop><b-icon icon="justify"></b-icon></b-button>
+<!-- <b-button v-b-toggle.sidebar-backdrop><b-icon icon="justify"></b-icon></b-button>
   
         <b-sidebar id="sidebar-backdrop" title="콜마너 관리자앱" backdrop-variant="dark" backdrop>
       <div class="px-3 py-2">
@@ -25,47 +25,33 @@
 <b-button class="w-100 p-2 " variant="success" href="http://localhost:8080/#/Option">설정     </b-button><br><br>
 <b-button class="w-100 p-2 " variant="success">공지사항 </b-button><br><br><br><br><br><br>
 <b-button class="w-100 p-2 " variant="dark">로그아웃 </b-button>
-    </b-sidebar>
+    </b-sidebar> -->
      <!-- 3line sidebar btn end  -->
 
-    <b-navbar-brand href="#">&emsp;콜마너 관리자</b-navbar-brand>
+    <!-- <b-navbar-brand href="#">&emsp;콜마너 관리자</b-navbar-brand>
 
   
 
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
         <b-nav-item href="#">접수</b-nav-item>
-        <!-- <b-nav-item href="#" disabled>Disabled</b-nav-item> -->
+       
         <b-nav-item href="#">콜현황</b-nav-item>
          <b-nav-item href="#">통계</b-nav-item>
          <b-nav-item href="#">설정</b-nav-item>
       </b-navbar-nav>
 
-      <!-- Right aligned nav items -->
+    
       <b-navbar-nav class="ml-auto">
         <b-nav-form>
           <b-form-input size="sm" class="mr-sm-2" placeholder="Search"></b-form-input>
           <b-button size="sm" class="my-2 my-sm-0" type="submit">Search</b-button>
         </b-nav-form>
 
-        <!-- <b-nav-item-dropdown text="Lang" right>
-          <b-dropdown-item href="#">EN</b-dropdown-item>
-          <b-dropdown-item href="#">ES</b-dropdown-item>
-          <b-dropdown-item href="#">RU</b-dropdown-item>
-          <b-dropdown-item href="#">FA</b-dropdown-item>
-        </b-nav-item-dropdown> -->
-
-        <!-- <b-nav-item-dropdown right> -->
-          <!-- Using 'button-content' slot -->
-          <!-- <template v-slot:button-content>
-            <em>User</em>
-          </template>
-          <b-dropdown-item href="#">Profile</b-dropdown-item>
-          <b-dropdown-item href="#">Sign Out</b-dropdown-item>
-        </b-nav-item-dropdown> -->
+     
       </b-navbar-nav>
     </b-collapse>
-  </b-navbar>
+  </b-navbar> -->
   <!-- nav bar -end -->
 
 <!-- 전체지사 버튼 -sta -->

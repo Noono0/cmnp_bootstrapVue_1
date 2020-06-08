@@ -22,25 +22,25 @@
          <!-- </tr> -->
     <!-- </table> -->
 
-<!-- 로그인 : <a href="http://localhost:8080/#/Login">로그인</a> <br>
+로그인 : <a href="http://localhost:8080/#/Login">로그인</a> <br>
 접수 : <a href="http://localhost:8080/#/Jubsu">접수</a><br>
 출발지 선택 : <a href="http://localhost:8080/#/Depart">출발지 선택</a><br>
 도착지 선택 : <a href="http://localhost:8080/#/Arrive">도착지 선택</a><br>
-오더화면 : <a href="http://localhost:8080/#/Arrive">오더화면</a><br>
-오더화면 - 상세정보 : <a href="http://localhost:8080/#/Arrive">오더화면 - 상세정보</a><br>
-통계화면 : <a href="http://localhost:8080/#/Arrive">통계화면</a><br>
-설정화면 : <a href="http://localhost:8080/#/Arrive">설정화면</a> -->
+오더화면 : <a href="http://localhost:8080/#/Order">오더화면</a><br>
+오더화면 - 상세정보 : <a href="http://localhost:8080/#/Order_Detail">오더화면 - 상세정보</a><br>
+통계화면 : <a href="http://localhost:8080/#/Status">통계화면</a><br>
+설정화면 : <a href="http://localhost:8080/#/Option">설정화면</a>
 
 
 
-로그인 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Login">로그인</a> <br>
+<!-- 로그인 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Login">로그인</a> <br>
 접수 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Jubsu">접수</a><br>
 출발지 선택 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Depart">출발지 선택</a><br>
 도착지 선택 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Arrive">도착지 선택</a><br>
 오더화면 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Order">오더화면</a><br>
 오더화면 - 상세정보 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Order_Detail">오더화면 - 상세정보</a><br>
 통계화면 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Status">통계화면</a><br>
-설정화면 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Option">설정화면</a>
+설정화면 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Option">설정화면</a> -->
 
 
 
