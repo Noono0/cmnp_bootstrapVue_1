@@ -15,12 +15,35 @@
         </tr>
     </table>  -->
 
-    <table border="2">
-         <tr :key="index" v-for="(value,index) in data" @click="detail(index)"> 
-             <td>{{value.menu}}</td>
+    <!-- <table border="2"> -->
+         <!-- <tr :key="index" v-for="(value,index) in data" @click="detail(index)">  -->
+             <!-- <td>{{value.menu}}</td> -->
 
-         </tr>
-    </table>
+         <!-- </tr> -->
+    <!-- </table> -->
+
+<!-- 로그인 : <a href="http://localhost:8080/#/Login">로그인</a> <br>
+접수 : <a href="http://localhost:8080/#/Jubsu">접수</a><br>
+출발지 선택 : <a href="http://localhost:8080/#/Depart">출발지 선택</a><br>
+도착지 선택 : <a href="http://localhost:8080/#/Arrive">도착지 선택</a><br>
+오더화면 : <a href="http://localhost:8080/#/Arrive">오더화면</a><br>
+오더화면 - 상세정보 : <a href="http://localhost:8080/#/Arrive">오더화면 - 상세정보</a><br>
+통계화면 : <a href="http://localhost:8080/#/Arrive">통계화면</a><br>
+설정화면 : <a href="http://localhost:8080/#/Arrive">설정화면</a> -->
+
+
+
+로그인 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Login">로그인</a> <br>
+접수 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Jubsu">접수</a><br>
+출발지 선택 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Depart">출발지 선택</a><br>
+도착지 선택 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Arrive">도착지 선택</a><br>
+오더화면 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Arrive">오더화면</a><br>
+오더화면 - 상세정보 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Arrive">오더화면 - 상세정보</a><br>
+통계화면 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Arrive">통계화면</a><br>
+설정화면 : <a href="http://haeun-bootstrapvue01.netlify.app/#/Arrive">설정화면</a>
+
+
+
 
 
   </div>  
